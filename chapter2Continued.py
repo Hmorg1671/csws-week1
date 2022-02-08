@@ -19,4 +19,4 @@ favorite_language.strip()
 first_name = "william"
 last_name = "Smith"
 print(f"Hello {first_name.title()}, would you like to learn some python today?")
-print(f"Hello {first_name.title()} {last_name.title()}, would you like to learn some python")
+print(f"Hello {first_name.title()} {last_name.title()}, would you like to learn some python today?")
